@@ -1,0 +1,19 @@
+package fundamentos;
+
+public class ConversaoTipoPrimitivosNumericos {
+	public static void main(String[] args) {
+		
+		//convertendo um inteiro para double
+		double a = 1; //conversao implicita
+		System.out.println(a);
+		
+		//convertendo um numero double para float
+		float b = (float) 1.0; //conversao explicita (CAST)
+		//ou
+		float c = 1.0F;
+		
+		int c = 4;
+		byte d = (byte) c;
+		System.out.println(d);
+	}
+}

@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\aluga.com\Desktop\Apps\AppsJava\CursoCod3r-Java\.metadata\.plugins\org.eclipse.jdt.core
+267517130.index
+3732647088.index
+1991655398.index
+3654592591.index

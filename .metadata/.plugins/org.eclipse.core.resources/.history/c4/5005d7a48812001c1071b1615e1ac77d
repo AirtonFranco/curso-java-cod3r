@@ -1,0 +1,14 @@
+package fundamentos;
+
+public class ConversaoTipoPrimitivosNumericos {
+	public static void main(String[] args) {
+		
+		double a = 1;
+		System.out.println(a);
+		
+		//convertendo um numero double para float
+		float b = (float) 1.0;
+		//ou
+		float c = 1.0F;
+	}
+}

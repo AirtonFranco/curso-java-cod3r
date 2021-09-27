@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename type &apos;fundamentos.areaCircunferencia&apos; to &apos;AreaCircunferencia&apos;&#x0D;&#x0A;- Original project: &apos;exercicios&apos;&#x0D;&#x0A;- Original element: &apos;fundamentos.areaCircunferencia&apos;&#x0D;&#x0A;- Renamed element: &apos;fundamentos.AreaCircunferencia&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename type &apos;areaCircunferencia&apos;" flags="589830" id="org.eclipse.jdt.ui.rename.type" input="/src&lt;fundamentos{areaCircunferencia.java[areaCircunferencia" matchStrategy="1" name="AreaCircunferencia" qualified="false" references="true" similarDeclarations="false" stamp="1629735579236" textual="false" version="1.0"/>
+</session>
